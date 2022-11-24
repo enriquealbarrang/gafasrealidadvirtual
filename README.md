@@ -1,2 +1,0 @@
-# gafasrealidadvirtual
-Pagina web
