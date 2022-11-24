@@ -6,14 +6,15 @@ h1 {
     padding: 0px;
 }
 
-section {
+footer {
 
-    line-height:1px;
+    text-align: center;
 
 }
 
 img {
 
+    position: relative;
     width: 100%;
 
 }
@@ -24,4 +25,9 @@ main h2 {
 
 }
 
+.info {
+
+    border: 1px solid black;
+
+}
 
